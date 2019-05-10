@@ -22,5 +22,6 @@ Basic comparison of GPUs.
 | Quadro RTX 8000|4,608|48 GB GDDR6|384-bit|672 GB/s|
 | Tesla K80|2,496x2|12x2 GB GDDR5|384-bit|480 GB/s|
 | Tesla T4|2,560|16 GB GDDR6|256-bit|320 GB/s|
+| Tesla M40|3,072|12 GB GDDR5|384-bit|288.4 GB/s|
 | Tesla P100|3,584|16/12 GB HBM2|4096/3072-bit|732/549 GB/s|
 | Tesla V100|5,120|16/32 GB HBM2|4096-bit|900 GB/s|
